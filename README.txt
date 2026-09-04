@@ -22,7 +22,7 @@ The **RaceDay** system is a robust, enterprise-grade backend solution engineered
 ## 2. Technical Stack & Architecture
 * **Backend Framework:** ASP.NET Core Web API (.NET)
 * **Object-Relational Mapper (ORM):** Entity Framework Core (EF Core) for data mapping, LINQ queries, and database context management.
-* **Database Management System:** Microsoft SQL Server / SQL Server Management Studio (SSMS).
+* **Database Management System:** Microsoft SQL Server / SQL Server Management Studio (SSMS)
 * **Data Modeling & UML:** UML Class Diagrams and Entity-Relationship Modeling.
 * **Integrated Development Environment:** Visual Studio Enterprise / Community.
 * **Version Control:** Git & GitHub (Structured across 20+ atomic commits).
