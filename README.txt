@@ -14,7 +14,7 @@
 
 ---
 
-## 1. Project Overview
+## 1. Project Overview.
 The **RaceDay** system is a robust, enterprise-grade backend solution engineered to manage athletic event registrations, participant enrolments, venue tracking, and race results processing. Developed as part of an advanced software engineering and database systems curriculum, this project demonstrates mastery over modern architectural patterns, relational database administration using SQL Server Management Studio (SSMS), RESTful API development in ASP.NET Core, and structured version control workflows.
 
 ---
