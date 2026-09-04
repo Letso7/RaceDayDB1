@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview).
-2. [Technical Stack & Architecture](#technical-stack--architecture)
+2. [Technical Stack & Architecture](#technical-stack--architecture).
 3. [Database Design & Entity-Relationship Model (ERD)](#database-design--entity-relationship-model-erd)
 4. [Database Normalization (1NF to 3NF)](#database-normalization-1nf-to-3nf)
 5. [Visual Studio Development & Implementation](#visual-studio-development--implementation)
