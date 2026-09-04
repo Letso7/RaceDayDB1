@@ -8,7 +8,7 @@
 5. [Visual Studio Development & Implementation](#visual-studio-development--implementation)
 6. [API Endpoints & Controller Implementation](#api-endpoints--controller-implementation)
 7. [Setup and Installation Instructions](#setup-and-installation-instructions).
-8. [Version Control & GitHub Commit Strategy](#version-control--github-commit-strategy)
+8. [Version Control & GitHub Commit Strategy](#version-control--github-commit-strategy).
 9. [Video Presentation Overview](#video-presentation-overview).
 10. [References & Citations](#references--citations).
 
