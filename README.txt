@@ -6,7 +6,7 @@
 3. [Database Design & Entity-Relationship Model (ERD)](#database-design--entity-relationship-model-erd)
 4. [Database Normalization (1NF to 3NF)](#database-normalization-1nf-to-3nf)
 5. [Visual Studio Development & Implementation](#visual-studio-development--implementation)
-6. [API Endpoints & Controller Implementation](#api-endpoints--controller-implementation)
+6. [API Endpoints & Controller Implementation](#api-endpoints--controller-implementation).
 7. [Setup and Installation Instructions](#setup-and-installation-instructions).
 8. [Version Control & GitHub Commit Strategy](#version-control--github-commit-strategy).
 9. [Video Presentation Overview](#video-presentation-overview).
